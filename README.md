@@ -32,6 +32,8 @@ A repos. for learning programming in python
 
 ## 15 - 模塊 (Module)
 
-## 16 - 圖形 (Graphics)
+## 16 - 圖形 (Graphics) 及 Pygame
 
-## 17 - 
+## 17 - 動畫精靈和碰撞檢測
+
+## 18 - 一種新的輸入--事件 (Events)
